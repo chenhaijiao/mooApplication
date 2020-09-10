@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 ## 注意报错情况
 1. fatal: Couldn't find remote ref master
     + 主要是因为如果远程仓库这个项目为空就直接push就可以了，不需要pull
+2. 记一下这个仓库的origin写成了studio，免得忘记了
